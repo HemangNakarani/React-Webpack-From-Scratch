@@ -31,7 +31,7 @@ Creating React App using Webpack Bundler from scratch
     },
 
     devServer:{
-        port:3010, // Explicitly Defined Port of server
+        port:3000, // Explicitly Defined Port of server
         watchContentBase: true, // Live Server
     },
 

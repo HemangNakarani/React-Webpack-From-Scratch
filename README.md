@@ -80,7 +80,7 @@ Creating React App using Webpack Bundler from scratch
   npm run dev
   ```
   
-- To Build App run following command, it will generate `/dist` and buldle app in this folder with some files, which are frankly not readable
+- To Build App run following command, it will generate `/dist` and buldle app in this folder with some files, some of which are frankly not readable
   ```
   npm run build
   ```
